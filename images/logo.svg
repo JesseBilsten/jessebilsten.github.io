@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="137px" viewBox="0 0 120 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-100.000000, -40.000000)">
+            <g id="Logo" sketch:type="MSLayerGroup" transform="translate(100.000000, 40.000000)">
+                <g id="logo" sketch:type="MSShapeGroup">
+                    <path d="M59.5294118,68.5257732 L119.004235,34.2778247 L59.5298824,0.0291649485 L59.5294118,68.5257732" id="Fill-1" fill="#E4E5E3"></path>
+                    <path d="M59.5294118,68.5257732 L0.0545882353,34.2773505 L59.5298824,0.0291649485 L59.5294118,68.5257732" id="Fill-2" fill="#B4B5B4"></path>
+                    <path d="M59.5294118,137.022381 L0.0545882353,102.774196 L59.5294118,68.5257732 L59.5294118,137.022381" id="Fill-3" fill="#B4B5B4"></path>
+                    <path d="M119.004235,102.774196 L59.5294118,68.5257732 L119.004235,34.2778247 L119.004235,102.774196" id="Fill-4" fill="#F2F2F1"></path>
+                    <path d="M59.5294118,137.022381 L119.004235,102.774196 L59.5294118,68.5257732 L59.5294118,137.022381" id="Fill-5" fill="#E4E5E3"></path>
+                    <path d="M0.0545882353,102.774196 L59.5294118,68.5257732 L0.0545882353,34.2773505 L0.0545882353,102.774196" id="Fill-6" fill="#9E9F9E"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

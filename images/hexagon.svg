@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="47px" viewBox="0 0 40 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Polygon 1hexagon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-20.000000, -402.000000)" fill="#333333">
+            <g id="Hex" sketch:type="MSLayerGroup" transform="translate(20.000000, 402.000000)">
+                <polygon id="Polygon-1" sketch:type="MSShapeGroup" points="20 0 40 11.5470054 40 34.6410162 20 46.1880215 1.31274253e-14 34.6410162 0 11.5470054 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
